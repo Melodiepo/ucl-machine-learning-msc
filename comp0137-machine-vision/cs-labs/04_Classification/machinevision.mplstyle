@@ -1,0 +1,8 @@
+figure.figsize : 12, 6
+xtick.labelsize : 15
+ytick.labelsize : 15
+font.size : 15
+lines.markersize : 14
+markers.fillstyle : none
+image.cmap : hot
+image.origin : lower
