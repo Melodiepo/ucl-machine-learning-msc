@@ -1,6 +1,6 @@
 # UCL MSc Machine Learning Repository 
 
-This repository consolidates materials, assignments, and notes from four core modules in the MSc Machine Learning program at UCL. 
+This repository consolidates materials, assignments, and notes from core modules in the MSc Machine Learning program at UCL 2024/25.
 
 ## Repository Structure
 
