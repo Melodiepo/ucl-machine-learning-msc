@@ -52,7 +52,7 @@ The slides provide a comprehensive reference for the theoretical and practical a
 
 ### `lecture-notes-mine`
 This folder contains personal notes summarizing the official lecture content:
-- `comp0137-lec-notes-melodie.pdf`: Customized notes created for quick reference.
+- `comp0137-lec-notes-melodie-v1.pdf`: Detailed notes created for exam revision.
 
 ### Key Supporting Documents
 - `MoGCribSheet.pdf`: A crib sheet summarizing Gaussian Mixture Model concepts.
