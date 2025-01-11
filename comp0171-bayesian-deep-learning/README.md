@@ -29,6 +29,10 @@ This folder contains lecture slides provided for the module. The notes cover key
 - Deep learning applications (e.g.GNNs) with Bayesian principles
 - Bayesian optimization and active learning
 
+### `lecture-notes-mine`
+This folder contains personal notes summarizing the official lecture content:
+- `comp0171-lec-notes-melodie-v1.pdf`: Detailed notes created for exam revision.
+
 ### `weekly-exercises-w-sols`
 This folder contains weekly exercises and their solutions, designed to reinforce the concepts taught in the lectures. (WIP)
 
@@ -38,4 +42,4 @@ This folder contains weekly exercises and their solutions, designed to reinforce
 - `6. MNIST-Classification-Examples.ipynb`: Practical examples of classification using the MNIST dataset.
 - `7. GPs and NNs.ipynb`: Exploration of Gaussian processes and their connections to neural networks.
 
-WIP: My own lecture notes, exam cheatsheet, complete weekly tutorials with solutions.
+WIP: Exam cheatsheet, complete weekly tutorials with solutions.
