@@ -8,9 +8,9 @@ This repository consolidates materials, assignments, and notes from core modules
 This module focuses on supervised learning techniques from kernel methods, SVM to Ensemble Learning, Online Learning.
 
 #### Highlights:
-- Linear models and kernelized ridge regression
-- k-Nearest Neighbors (k-NN) implementation
-- Lecture notes covering statistical learning theory, ensemble methods, and structured prediction
+- Feature maps and Kernels
+- SVMs, Tree-based Models, First Order Methods
+- Statistical Learning Theory, Ensemble Methods, and Online Learning
 
 For more details, see the [comp0078 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0078-supervised-learning/README.md).
 
@@ -21,7 +21,7 @@ This module provides an in-depth introduction to unsupervised learning and proba
 
 #### Highlights:
 - Latent variable models such as Gaussian Mixture Models and Hidden Markov Models
-- Dimensionality reduction methods
+- Dimensionality reduction methods e.g. PPCA
 - Foundations of probabilistic graphical models
 - Advanced inference techniques, including variational approximations and sampling methods
 
@@ -37,7 +37,6 @@ This module explores the principles and applications of computer vision: object 
 - Image tracking and homography estimation
 - Practical labs on classification, pose estimation, and neural networks
 
-
 For more details, see the [comp0137 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0137-machine-vision/README.md).
 
 ---
@@ -52,3 +51,56 @@ This module combines Bayesian inference principles with deep learning methods, f
 - Weekly exercises on probabilistic modeling and Bayesian optimization
 
 For more details, see the [comp0171 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0171-bayesian-deep-learning/README.md).
+
+---
+
+### [comp0197-applied-deep-learning](https://www.ucl.ac.uk/module-catalogue/modules/applied-deep-learning-COMP0197)
+This module provides a hands-on approach to deep learning, covering feedforward networks, CNNs, RNNs, and practical considerations like training, regularization, and evaluation.
+
+#### Highlights:
+- Basics of deep learning: MLPs, feedforward networks
+- Training techniques and optimization strategies
+- Convolutional and recurrent neural networks
+- Model regularization and evaluation
+
+For more details, see the [comp0197 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0197-applied-deep-learning/README.md).
+
+---
+
+### [comp0087-statistical-natural-language-processing](https://www.ucl.ac.uk/module-catalogue/modules/statistical-natural-language-processing-COMP0087)
+This module explores probabilistic models for NLP, including foundational topics in statistical language processing and modern machine translation techniques.
+
+#### Highlights:
+- NLP fundamentals: tokenization, syntax, and semantics
+- Statistical methods for language modeling
+- Machine translation techniques
+- Probabilistic approaches to NLP tasks
+
+For more details, see the [comp0087 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0087-statistical-natural-language-processing/README.md).
+
+---
+
+### [comp0124-multi-agent-artificial-intelligence](https://www.ucl.ac.uk/module-catalogue/modules/multi-agent-artificial-intelligence-COMP0124)
+This module explores multi-agent systems, game theory, and equilibrium concepts in AI decision-making.
+
+#### Highlights:
+- Game theory fundamentals for AI
+- Nash equilibria and repeated games
+- Computational methods for equilibrium finding
+- Strategic patrolling and Lemke-Howson algorithms
+
+For more details, see the [comp0124 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0124-multi-agent-artificial-intelligence/README.md).
+
+---
+
+### [comp0168-machine-learning-seminar](https://www.ucl.ac.uk/module-catalogue/modules/machine-learning-seminar-COMP0168)
+This module covers modern topics in machine learning, including Gaussian processes, Bayesian optimization, and message passing.
+
+#### Highlights:
+- Gaussian Processes
+- Bayesian optimization
+- Numerical integration methods
+- Message passing algorithms and inference
+- Meta-learning for model adaptation
+
+For more details, see the [comp0168 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0168-machine-learning-seminar/README.md).
