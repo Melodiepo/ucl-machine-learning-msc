@@ -104,3 +104,16 @@ This module covers modern topics in machine learning, including Gaussian process
 - Meta-learning for model adaptation
 
 For more details, see the [comp0168 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0168-machine-learning-seminar/README.md).
+
+---
+
+### [comp0082-bioinformatics](https://www.ucl.ac.uk/module-catalogue/modules/bioinformatics-COMP0082)
+This module introduces computational techniques in bioinformatics, covering key topics such as molecular biology, DNA sequencing, biological databases, and gene function prediction.
+
+#### Highlights:
+- Introduction to bioinformatics and molecular biology principles
+- DNA sequencing and genome analysis techniques
+- Biological databases and computational tools for sequence alignment
+- Gene function prediction and statistical models in bioinformatics
+
+For more details, see the [comp0082 README](https://github.com/Melodiepo/ucl-machine-learning-msc/blob/main/comp0082-bioinformatics/README.md).
